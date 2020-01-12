@@ -1,7 +1,1 @@
-# Code Institute
-
-Welcome Fred Dorn,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+[![Build Status](https://travis-ci.org/freddorn/ecommerce.svg?branch=master)](https://travis-ci.org/freddorn/ecommerce)
